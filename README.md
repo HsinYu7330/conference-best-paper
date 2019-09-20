@@ -8,4 +8,4 @@ Collections of awesome decoding of best papers which published at top conference
       *  key-concepts: tree-structured LSTM, new activation: cumax(), enforcing the order in neurons 
   2. The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
       *  key-concepts: sub-networks, iterative pruning, initialization
-  3. I learned from this blog: [Decoding the Best Papers from ICLR 2019 – Neural Networks are Here to Rule](https://www.analyticsvidhya.com/blog/2019/05/best-papers-iclr-2019/)
+  3. Learned from this blog: [Decoding the Best Papers from ICLR 2019 – Neural Networks are Here to Rule](https://www.analyticsvidhya.com/blog/2019/05/best-papers-iclr-2019/)
