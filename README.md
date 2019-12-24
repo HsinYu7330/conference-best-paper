@@ -18,3 +18,16 @@ Collections of awesome decoding of best papers which published at top conference
       *  key-concepts: bi-directional GRU, co-attention, hierarchical neural network
       *  paper search: http://pike.psu.edu/publications/kdd19.pdf
       *  code search: https://github.com/cuilimeng/dEFEND-web
+      
+- IJCAI:
+  1.  **Multi-Group Encoder-Decoder Networks to Fuse Heterogeneous Data for Next-Day Air Quality Prediction** : Fuse multi-source data to predict 1 to 24 hour air quality. 
+      *  key-concepts: local convolution-based feature representation, feature grouping by correlation, encoder fusion with group interactions
+      * paper search: https://www.ijcai.org/proceedings/2019/0603.pdf
+      
+- WWW: 
+  1.  **Modeling Heart Rate and Activity Data for Personalized Fitness Recommendation**: Integrate heart rate and historical workout sequences to forecast workout profile, predict short term heart rate as well as suggest personalized fitness routes. 
+      * key-concepts: attributes embedding, contextual embedding, encoder-decoder, dual-stage attention encoder decoder network.
+      * paper search: https://cseweb.ucsd.edu/~jmcauley/pdfs/www19.pdf
+      * code search: https://github.com/nijianmo/fit-rec
+
+   
